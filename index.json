@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "traclinks",
+  "versions": [
+    {
+      "commit": "590ef6c1378e512afbfdbd46cce8ebb007382ebc",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:30:26.574548+00:00"
+    }
+  ]
+}
